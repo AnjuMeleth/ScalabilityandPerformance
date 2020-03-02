@@ -1,0 +1,28 @@
+﻿Your Estimate
+Service Type,Components,Region,Component Price,Service Price
+Amazon EC2 Service (US East (Ohio)),,,,$6573.52
+,Compute:,US East (Ohio),$6573.4
+,Elastic IPs:,US East (Ohio),$0.12
+Amazon S3 Service (US East (Ohio)),,,,$471.04
+,S3 Standard Storage:,US East (Ohio),$471.04
+Amazon Route 53 Service,,,,$1200.5
+,Hosted Zones:,Global,$0.5
+,Standard Queries:,Global,$1200
+Amazon CloudFront Service,,,,$499.26
+,Data Transfer Out:,Global,$4.26
+,Invalidations:,Global,$495
+Amazon DynamoDB Service (US East (Ohio)),,,,$4.5
+,On-demand Capacity:,US East (Ohio),$4.5
+,Provisioned Capacity:,US East (Ohio),$0
+,Indexed Data Storage:,US East (Ohio),$0
+,DynamoDB Streams:,US East (Ohio),$0
+,On-demand backup:,US East (Ohio),$0
+,Continuous backup (PITR):,US East (Ohio),$0
+,Restoring a table:,US East (Ohio),$0
+Amazon VPC Service (US East (Ohio)),,,,$69.59
+,VPN Connection:,US East (Ohio),$36.6
+,NAT Gateway,US East (Ohio),$32.99
+AWS Support (Business),,,,$881.41
+,Support for all AWS services:,,$881.41
+,,Free Tier Discount:,,$-4.38
+,,Total Monthly Payment:,,$9695.44
